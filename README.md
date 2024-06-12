@@ -1,6 +1,6 @@
 # Book Recommendation System
 
-Our Book Recommendation System leverages the NearestNeighbors algorithm to provide personalized book recommendations. By analyzing the book ratings from a large dataset of users, our system identifies and suggests books that are likely to match your preferences.
+This Book Recommendation System leverages the NearestNeighbors algorithm to provide personalized book recommendations. By analyzing the book ratings from a large dataset of users, our system identifies and suggests books that are likely to match your preferences.
 
 #### Key Features:
 
